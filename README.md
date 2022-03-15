@@ -1,2 +1,1 @@
-# rsschool-cv
-my cv
+https://github.com/Aleg3000/rsschool-cv

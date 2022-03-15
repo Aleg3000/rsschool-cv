@@ -16,9 +16,9 @@ I work in a subsidiary of Rosatom as a design engineer, engaged in the design of
 # Code Example
 ```
 function sayHi() {
-	Return “Hi”;
+	return “Hi”;
 }
-Alert(sayHi());
+alert(sayHi());
 ```
 # Experience
 * 2016-2021 Design engineer. 
